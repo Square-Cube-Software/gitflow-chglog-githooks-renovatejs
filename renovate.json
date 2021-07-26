@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "baseBranches": ["updateDependency"],
+  "baseBranches": ["updateDependencies"],
   "timezone": "America/Lima",
   "prCreation" : "status-success"
 }
