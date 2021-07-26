@@ -4,5 +4,8 @@
   ],
   "baseBranches": ["updateDependencies"],
   "timezone": "America/Lima",
-  "prCreation" : "status-success"
+  "prCreation" : "status-success",
+  "schedule": [
+    "before 3am on Monday"
+  ]
 }
