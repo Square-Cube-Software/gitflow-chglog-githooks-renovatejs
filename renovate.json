@@ -3,5 +3,6 @@
     "config:base"
   ],
   "baseBranches": ["updateDependencies"],
-  "timezone": "America/Lima"
+  "timezone": "America/Lima",
+  "schedule": ["after 1am and before 7am every day"]
 }
