@@ -3,9 +3,5 @@
     "config:base"
   ],
   "baseBranches": ["updateDependencies"],
-  "timezone": "America/Lima",
-  "prCreation" : "status-success",
-  "schedule": [
-    "before 3am on Monday"
-  ]
+  "timezone": "America/Lima"
 }
